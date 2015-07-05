@@ -1,0 +1,9 @@
+name: BackPack
+version: 1_c
+main: org.hcraid.com.backpack.BackPack
+author: danslayerx
+description: Back pack plugin
+commands:
+   backpack:
+      description: BackPacks!
+      aliases: [b, ob]
